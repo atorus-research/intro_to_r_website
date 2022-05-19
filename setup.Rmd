@@ -9,12 +9,12 @@ description: |
 
 During the workshop we will be using RStudio Cloud. The benefit of this is we can all use R with the same configurations, rather than setting up R on each operating system.
 
-You can find the project associated with the workshop here: https://rstudio.cloud/project/2623930. Once logged in, you should see the PharmaSUG_intro_to_R_2022 project:
+You can find the project associated with the workshop here: https://rstudio.cloud/spaces/248807/project/4071315. Once logged in, you should see the intro_to_r project:
 
 
 
 
-<img alt="rstudio cloud home screen with PharmaSUG_intro_to_r_2022 project" src="www/login.PNG"></img>
+<img alt="rstudio cloud home screen with intro_to_r project" src="www/login.PNG"></img>
 
 
 
