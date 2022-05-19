@@ -1,0 +1,87 @@
+---
+title: "Resources"
+output:
+  distill::distill_article
+---
+
+# Function References 
+
+| Function | Purpose | Docs |
+| --- | ---- | -- |
+| `select` | Selects variables in a data frame | [📄](https://dplyr.tidyverse.org/reference/select.html) |
+| `filter` | Subsets a data frame, retaining all rows that satisfy your conditions | [📄](https://dplyr.tidyverse.org/reference/filter.html) |
+| `rename` |  Changes the names of individual variables | [📄](https://dplyr.tidyverse.org/reference/rename.html) |
+| `arrange` |  Orders the rows of a data frame by the values of selected columns | [📄](https://dplyr.tidyverse.org/reference/arrange.html) |
+| `bind_rows` | Binds many data frames into one | [📄](https://dplyr.tidyverse.org/reference/bind.html) |
+| `*_join` | Joins add columns from y to x, matching rows based on the keys | [📄](https://dplyr.tidyverse.org/reference/filter-joins.html) |
+| `mutate` | Adds new variables and preserves existing ones | [📄](https://dplyr.tidyverse.org/reference/mutate.html) |
+| `if_else` |  Returns a value with the same shape as test which is filled with elements selected from either yes or no depending on whether the element of test is TRUE or FALSE | [📄](https://dplyr.tidyverse.org/reference/id_else.html) |
+| `case_when` | Allows you to vectorise multiple if_else() statements | [📄](https://dplyr.tidyverse.org/reference/case_when.html) |
+| `rowwise` | Allows you to compute on a data frame a row-at-a-time | [📄](https://dplyr.tidyverse.org/reference/rowwise.html) |
+| `summarize` | Creates a new data frame. It will have one (or more) rows for each combination of grouping variables; if there are no grouping variables, the output will have a single row summarising all observations in the input. It will contain one column for each grouping variable and one column for each of the summary statistics that you have specified. | [📄](https://dplyr.tidyverse.org/reference/summarize.html) |
+| `group_by` | Takes an existing tbl and converts it into a grouped tbl where operations are performed "by group" |[📄](https://dplyr.tidyverse.org/reference/group_by.html) |
+| `count` |  Lets you quickly count the unique values of one or more variables |[📄](https://dplyr.tidyverse.org/reference/count.html) |
+
+# Where to Go From Here:
+
+We mentioned a lot of amazing packages within the R ecosystem that we leverage every day. **click on the package photo for more info and documentation**
+
+<div class="cards">
+
+  <div class="card">
+  <a href="https://www.tidyverse.org/">
+  <img class="resource" src="www/tidyverse.png"></img>
+  </a>
+  </div>
+  
+  <div class="card">
+  <a href="https://atorus-research.github.io/Tplyr/">
+  <img class="resource" src="www/tplyr.png"></img>
+  </a>
+  </div>
+  
+  <div class="card">
+  <a href="https://ggplot2.tidyverse.org/">
+  <img class="resource" src="www/ggplot2.png"></img>
+  </a>
+  </div>
+  
+  <div class="card">
+  <a href="https://atorus-research.github.io/xportr/">
+  <img class="resource" src="www/xportr.png"></img>
+  </a>
+  </div>
+  
+  <div class="card">
+  <a href="https://stringr.tidyverse.org/">
+  <img class="resource" src="www/stringr.png">
+  </img>
+  </a>
+  </div>
+  
+  <div class="card">
+  <a href="https://lubridate.tidyverse.org/">
+  <img class="resource" src="www/lubridate.png"></img>
+  </a>
+  </div>
+  
+  <div class="card">
+  <a href="https://clock.r-lib.org/">
+  <img class="resource" src="www/clock.png"></img>
+  </a>
+  </div>
+  
+  <div class="card">
+  <a href="https://cran.r-project.org/web/packages/huxtable/vignettes/huxtable.html">
+  <img class="resource" src="www/huxtable.png"></img>
+  </a>
+  </div>
+  
+  <div class="card">
+  <a href="https://gt.rstudio.com/">
+  <img class="resource" src="www/gt.png" style="width:90%;"></img>
+  </a>
+  </div>
+
+</div>
+</div>

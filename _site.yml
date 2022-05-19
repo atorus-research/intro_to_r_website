@@ -1,0 +1,20 @@
+name: "."
+title: "Introduction to R for the Statistical Programmer"
+description: |
+  Introduction to R for the Statistical Programmer
+output_dir: "docs"
+favicon: www/favicon.png
+theme: atorus.css
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Setup"
+      href: setup.html
+    - text: "Content"
+      href: slides.html
+    - text: "Resources"
+      href: resources.html
+output: distill::distill_article

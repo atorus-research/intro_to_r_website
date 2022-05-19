@@ -1,0 +1,26 @@
+---
+title: "Schedule"
+description: |
+  Workflow for today's workshop
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+| Today's Schedule |
+| --- | 
+| 🎬 Getting Started | 
+| 📓 R Basics | 
+| 📈 Working with Data Frames |
+| 💻 Translating Keep, Drop, Where, & Rename | 
+| ⌨️ Breakout 1 |
+| 💻 Translating Set & Merge | 
+| ⌨️ Breakout 2 |
+| 💻  Mutate | 
+| ⌨️ Breakout 3 |
+| 💻  Translating PROC MEAN, PROC FREQ, PROC UNIVARIATE | 
+| ⌨️ Breakout 4 |
+| 🌐 Where to go from Here | 
+
+
