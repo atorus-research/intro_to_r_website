@@ -505,7 +505,7 @@ data.frame(
 
 ## merge AKA *_join
 
-<img alt="venn diagrams of inner join, outer join, left and right join" src="www/join.PNG"></img>
+<img alt="venn diagrams of inner join, full join, left and right join" src="www/join.PNG"></img>
 
 
 ## Adding/editing a variable
